@@ -1,3 +1,3 @@
-# Portfolio
+# Portfolio V0.1 (December 2020)
 
-This is my first portfolio design, Which I started on 22 December 2020 and completed within 1 week.
+This is my first portfolio design.
