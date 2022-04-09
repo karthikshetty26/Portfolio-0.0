@@ -342,26 +342,6 @@ nav{
   border-radius: 10px;
 }
 
-/*
-.logo-name{
-  width: 30%;
-  font-size: var(--fs-nav-logo);
-  padding-left: 5%;
-}
-
-.nav-buttons{
-    display: flex;
-    width: 70%;
-    justify-content: flex-end;
-}
-
-.nav-button{
-  padding-left: 2%;
-  padding-right: 2%;
-}
-
-*/
-
 /* nav ends */
 
 /* About me starts */
